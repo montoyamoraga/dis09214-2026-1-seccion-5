@@ -1,4 +1,4 @@
-# Dis09214-2026-1-seccion-4
+# Dis09214-2026-1-seccion-5
 
 Repositorio del curso DIS09214 pensamiento computacional, sección 5.
 
@@ -6,14 +6,14 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 ## Secciones
 
-| n | docente           | web | horario                   | enlace                                                   |
-| - | ----------------- | --- | ------------------------- | -------------------------------------------------------- |
-| 1 | christian oyarzún | [error404.cl](https://error404.cl/) | viernes 10:00am - 12:50pm |                                                          |
-| 2 | poli mujica       | [polimujica.xyz](https://www.polimujica.xyz/) | viernes 10:00am - 12:50pm |                                                          |
-| 3 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 10:00am - 12:50pm |                                                          |
-| 4 | aarón montoya     | [montoyamoraga.io](https://montoyamoraga.io/) | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-4> |
-| 5 | matías serrano    | [misaa.cc](https://www.misaa.cc) | viernes 02:30pm - 05:20pm | <https://github.com/disenoUDP/dis09214-2026-1-seccion-5> |
-| 6 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 02:30pm - 05:20pm |                                                          |
+| n | docente           | web                                           | horario                                 | enlace                                                   |
+| - | ----------------- | ---                                           | -------------------------               | -------------------------------------------------------- |
+| 1 | christian oyarzún | [error404.cl](https://error404.cl/)           | viernes 10:00am - 12:50pm               |                                                          |
+| 2 | poli mujica       | [polimujica.xyz](https://www.polimujica.xyz/) | viernes 10:00am -  12:50pm              |                                                          |
+| 3 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 10:00am - 12:50pm               |                                                          |
+| 4 | aarón montoya     | [montoyamoraga.io](https://montoyamoraga.io/) | viernes 02:30pm - 05:20pm               | <https://github.com/disenoUDP/dis09214-2026-1-seccion-4> |
+| 5 | matías serrano    | [misaa.cc](https://www.misaa.cc)              | viernes 02:30pm - 05:20pm               | <https://github.com/disenoUDP/dis09214-2026-1-seccion-5> |
+| 6 | sofía suazo       | [sofialuisa.xyz](https://www.sofialuisa.xyz/) | viernes 02:30pm - 05:20pm               |                                                          |
 
 ## Contenido
 
@@ -22,21 +22,22 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 * Cultura computacional
 * Dibujo 2D con p5.js
 * Primitivas y texto
-* Variables y tiposradores
+* Variables y tipos
 
 ### Unidad 2
 
+* GitHub
 * Iteradores
 * Condicionales y lógica
 * Tiempo
 * Aleatoreidad
 * Color
+* Funciones
 
 ### Unidad 3
 
 * Web estática  
 * Interactividad
-* Funciones
 * Texto
 * Objetos
 
@@ -63,6 +64,12 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 ## Evaluaciones
 
+1. 50% NP Solemne 1: Diseño de imagen estática (Entrega + bitácora)
+
+2. 50% NP Solemne 1: Diseño de imagen movimiento (Entrega + bitácora)
+
+3. Examen (Entrega + bitácora)
+
 ## Bibliografía
 
 * Maeda, John. Design by Numbers. 1. paperback ed. MIT Press, 2001.
@@ -77,9 +84,9 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 * Gubbins, Martín. E][S][C][A][L][A][S. 1st edition. Editado por José Luis Bobadilla Acevedo. Mangos de hacha, 2011.
 
-* Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. https://press.uchicago.edu/ucp/books/book/chicago/C/bo14526320.html.
+* Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. 
 
-* Cox, Geoff, y Winnie Soon. Aesthetic Programming: A Handbook of Software Studies. Open Humanites Press, 2021. https://www.openhumanitiespress.org/books/titles/aesthetic-programming/.
+* Cox, Geoff, y Winnie Soon. Aesthetic Programming: A Handbook of Software Studies. Open Humanites Press, 2021.. <https://openhumanitiespress.org/books/download/Soon-Cox_2020_Aesthetic-Programming.pdf>
 
 ## Recursos en línea
 
@@ -90,5 +97,11 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
   * [John Maeda - Laws of simplicity](https://designmanifestos.org/john-maeda-the-laws-of-simplicity/)
   * [Sister Corita Kent - Immaculate Heart College Art Department Rules](https://designmanifestos.org/sister-corita-kent-immaculate-heart-college-art-department-rules/)
   * [Charles Eames - Advice for students](https://designmanifestos.org/charles-eames-advice-for-students/)
+
 * The Coding Train <https://thecodingtrain.com/>
+
 * De Stijl
+
+* https://mermaid.live/
+
+* https://coolors.co/
