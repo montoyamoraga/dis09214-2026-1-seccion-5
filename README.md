@@ -1,6 +1,6 @@
 # Dis09214-2026-1-seccion-5
 
-Repositorio del curso DIS09214 pensamiento computacional, sección 5.
+Repositorio del curso DIS09214 pensamiento computacional, sección 5. Sala R180.-1.L12.
 
 Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudante XXXXXX YYYYYY.
 
@@ -70,7 +70,7 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 3. Examen (Entrega + bitácora)
 
-## Bibliografía
+## Bibliografía (boceto)
 
 * Maeda, John. Design by Numbers. 1. paperback ed. MIT Press, 2001.
 
@@ -82,7 +82,7 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 * Lodder, Christina. El constructivismo ruso (Cap. 1). Traducido por María Cóndor Orduña. Alianza Editorial, 1988.
 
-* Gubbins, Martín. E][S][C][A][L][A][S. 1st edition. Editado por José Luis Bobadilla Acevedo. Mangos de hacha, 2011.
+* Gubbins, Martín. E\]\[S\]\[C\]\[A\]\[L\]\[A\]\[S. 1st edition. Editado por José Luis Bobadilla Acevedo. Mangos de hacha, 2011.
 
 * Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. 
 
@@ -102,6 +102,6 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 * De Stijl
 
-* https://mermaid.live/
+* <https://mermaid.live/>
 
-* https://coolors.co/
+* <https://coolors.co/>
