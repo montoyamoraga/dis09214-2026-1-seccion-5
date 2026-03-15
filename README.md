@@ -72,19 +72,25 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 ## Bibliografía (boceto)
 
-* Maeda, John. Design by Numbers. 1. paperback ed. MIT Press, 2001.
+* Delgado Sanz, Soledad. JavaScript: iniciación y referencia. 1.ª ed. McGraw-Hill, 2001. (EN UDP)
 
-* Maeda, John. How to Speak Machine: Computational Thinking for the Rest of Us. Portfolio/Penguin, 2019.
+* Maeda, John. Las leyes de la simplicidad: diseño, tecnología, negocios, vida. Gedisa, 2006. (EN UDP)
 
-* Levin, Golan. Code As Creative Medium: A Handbook for Computational Art and Design. With Tega Brain. The MIT Press Ser. MIT Press, 2021.
+* Denning, Peter J., y Matti Tedre. Computational Thinking. The MIT Press Essential Knowledge Series. The MIT Press, 2019. (EN UDP)
+
+* Maeda, John. Design by Numbers. 1. paperback ed. MIT Press, 2001. (EN UDP)
+
+* Maeda, John. How to Speak Machine: Computational Thinking for the Rest of Us. Portfolio/Penguin, 2019. (EN UDP)
+
+* Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. (EN UDP)
+
+* Levin, Golan. Code As Creative Medium: A Handbook for Computational Art and Design. With Tega Brain. The MIT Press Ser. MIT Press, 2021. (EN UDP)
 
 * Reas, Casey, Chandler McWilliams, y Jeroen Barendse. Form+code in Design, Art, and Architecture. 1st ed., [Nachdr.]. With L.U.S.T. Design Briefs. Princeton Architectural Press, 2011.
 
 * Lodder, Christina. El constructivismo ruso (Cap. 1). Traducido por María Cóndor Orduña. Alianza Editorial, 1988.
 
 * Gubbins, Martín. E\]\[S\]\[C\]\[A\]\[L\]\[A\]\[S. 1st edition. Editado por José Luis Bobadilla Acevedo. Mangos de hacha, 2011.
-
-* Kane, Carolyn L. Chromatic Algorithms: Synthetic Color, Computer Art, and Aesthetics after Code. University of Chicago Press, 2014. 
 
 * Cox, Geoff, y Winnie Soon. Aesthetic Programming: A Handbook of Software Studies. Open Humanites Press, 2021.. <https://openhumanitiespress.org/books/download/Soon-Cox_2020_Aesthetic-Programming.pdf>
 
@@ -111,7 +117,7 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
   * <https://coolors.co/>
 
 * <https://p5js.org/education-resources/>
- 
+
   * The Coding Train <https://thecodingtrain.com/>
 
   * <https://github.com/processing/p5.js-getting-started-es>
