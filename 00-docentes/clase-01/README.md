@@ -211,3 +211,7 @@ luego esto será un recurso para la solemne-01. Se usarán design manifiestos co
 ### Registro clase
 
 <https://youtu.be/dqclBmR6HLc>
+
+### Código visto en clase 
+
+TODO
