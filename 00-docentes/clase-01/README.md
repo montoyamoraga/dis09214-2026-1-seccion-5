@@ -21,3 +21,5 @@
   - Modificación de primitivas
   - Color
   - Texto
+
+- Referencias libro constructivismo ruso: [constructivismo.md](constructivismo.md)

@@ -43,24 +43,24 @@ Esta sección es impartida por profesor Matías Serrano, en conjunto con ayudant
 
 ## Calendario
 
-| sesión | fecha |                          tema                          |
-|:------:|:-----:|:------------------------------------------------------:|
-| x      | 03-13 | no hay clases por día caturro                          |
-|      1 | 03-20 | introducción al curso, cultura computacional, intro p5 |
-|      2 | 03-27 | primitivas, texto                                      |
-| x      | 04-03 | no hay clases por semana santa                         |
-|      3 | 04-10 | solemne 1 (afiche primitivo)                           |
-|      4 | 04-17 | variables y tipos, imágenes externas                   |
-|      5 | 04-24 | iteradores, condicionales y lógica                     |
-| x      | 05-01 | no hay clases por 1 de mayo                            |
-| x      | 05-08 | no hay clases por receso                               |
-|      6 | 05-15 | funciones                                              |
-|      7 | 05-22 | aleatoreidad e interactividad                          |
-|      8 | 05-29 | web estática en html                                   |
-|      9 | 06-05 | solemne 2 - afiche dinámico                            |
-|     10 | 06-12 | repaso y anteproyecto                                  |
-|     11 | 06-19 | repaso y anteproyecto                                  |
-|     12 | 06-26 | examen                                                 |
+| Sesión | Fecha |                            Tema                           |                                                                                                           Descripción                                                                                                          |                     Entregable                    |
+|:------:|:-----:|:---------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------:|
+|    —   | 03-13 | Sin clases – Día del Estudiante                           | —                                                                                                                                                                                                                              | —                                                 |
+|    1   | 03-20 | Introducción al curso, cultura computacional, intro p5.js | ¿Qué es el pensamiento computacional? Genealogía del arte algorítmico (Molnár, LeWitt, Reas). Entorno p5.js: Crear usuario, setup(), draw(), print, sistema de coordenadas, color en RGB, primeras formas.                     | Revisar formas primitivas en casa                 |
+|    2   | 03-27 | Primitivas, texto y color HSB                             | Figuras geométricas (rect, ellipse, line, triangle). Relleno, borde y transparencia, vertex. colorMode(HSB) como forma intuitiva de trabajar el color para diseñadores. Tipografía con text(), textSize(), textAlign().        | Boceto de afiche estático                         |
+|    —   | 04-03 | Sin clases – Semana Santa                                 | —                                                                                                                                                                                                                              | —                                                 |
+|    3   | 04-10 | Variables, tipos de datos e imágenes externas             | Variables let, tipos (number, string, boolean). Color como variable: hue, saturation, brightness parametrizados. Carga de imágenes con loadImage() e image().                                                                  | Solemne 1 fuera de clase – Afiche primitivo       |
+|    4   | 04-17 | Iteradores, condicionales y lógica                        | Bucles for para patrones y repetición. Condicionales if / else. Operadores lógicos y de comparación. Grillas, degradados y ritmo gráfico con color HSB.                                                                        | Ejercicio en clase                                |
+|    5   | 04-24 | Funciones y transformaciones                              | Declaración y llamada de funciones. Parámetros y retorno. translate(), rotate(), scale(), push() y pop(). Componentes visuales reutilizables y modulares.                                                                      | Ejercicio en clase                                |
+|    —   | 05-01 | Sin clases – 1 de Mayo                                    | —                                                                                                                                                                                                                              | —                                                 |
+|    —   | 05-08 | Sin clases – Receso                                       | —                                                                                                                                                                                                                              | —                                                 |
+|    6   | 05-15 | Aleatoriedad e interactividad                             | random() y noise() para variación orgánica. Eventos de mouse y teclado (mouseX, mouseY, mousePressed()). Animación con frameCount. Diseño generativo potenciado con transformaciones.                                          | Prototipo interactivo                             |
+|    7   | 05-22 | lerpColor(), paletas y color generativo                   | Interpolación de color con lerpColor(). Construcción de paletas programáticas. Color como dato dinámico en composiciones animadas.                                                                                             | Ejercicio en clase                                |
+|    8   | 05-29 | Solemne 2 – Afiche dinámico                               | Entrega del afiche con movimiento, interactividad y/o aleatoriedad desarrollado íntegramente en p5.js. Interrogación oral individual sobre el código (2-3 preguntas por estudiante). 50% calidad del código, 50% defensa oral. | Afiche dinámico en sketch.js + interrogación oral |
+|    9   | 06-05 | Web estática en HTML                                      | Estructura básica de HTML. Cómo incrustar un sketch de p5.js en una página web. Nociones básicas de CSS.                                                                                                                       | Ejercicio en clase                                |
+|   10   | 06-12 | Repaso y anteproyecto                                     | Revisión de contenidos del semestre. Presentación y discusión del anteproyecto de examen. Retroalimentación grupal.                                                                                                            | Anteproyecto                                      |
+|   11   | 06-19 | Repaso y anteproyecto                                     | Continuación del desarrollo del proyecto final. Consultas técnicas y conceptuales.                                                                                                                                             | Avance de proyecto                                |
+|   12   | 06-26 | Examen final                                              | Presentación del proyecto final desarrollado con p5.js/HTML.                                                                                                                                                                   | Proyecto final                                    |
 
 ## Evaluaciones
 
