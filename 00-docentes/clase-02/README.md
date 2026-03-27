@@ -163,6 +163,61 @@ para cambiar el estilo de fuente:
 
 admite BOLD, ITALIC, y BOLDITALIC.
 
+### post-break
+
+#### rect
+
+- [rect();](https://p5js.org/reference/p5/rect/)
+
+rect(x, y, w, h, corners);
+
+el rect predeterminadamente se genera a partir de su esquina superior izquierda, esto se puede cambiar con rectMode:
+
+#### rectMode;
+
+- [rectMode(CENTER);](https://p5js.org/reference/p5/rectMode/)
+
+admite: CENTER, CORNER, RADIUS
+
+#### rotación;
+
+dado que la rotación en grados, funciona no responde a las mismas lógicas del canvas, se usa RADIANS.
+
+esto se puede cambiar con angleMode
+
+##### angleMode;
+
+- [angleMode();](https://p5js.org/reference/p5/angleMode/)
+
+admite RADIANS y DEGREES. Por defecto viene en RADIANS.
+
+##### rotate();
+
+- [rotate();](https://p5js.org/reference/p5/rotate/)
+
+cuando usas rotar, no rotas solo los elementos en el canvas, rotas el canvas entero. Esto genera que la figura no solo se rote, sino también, se cambia su posición.
+
+Para que podamos rotar en torno a su centro y no entorno al centro del canvas, hay que colocarlo en el origen, y luego aplicarle un translate() y un rotate()
+
+#### translate();
+
+con esta función puede alterar cuál es el eje de coordenadas, al igual que rotate, no estás alterando la forma en sí, si no el canvas
+
+#### push y pop();
+
+son funciones utilizadas para aislar líneas de código, sin que afecte a lo que está fuera de ese push pop. Al inicio de la zona que quieres aislar usar push(); y al final pop();
+
+- [push();](https://p5js.org/reference/p5/push/)
+- [pop();](https://p5js.org/reference/p5/pop/)
+
+#### arc();
+
+- [arc();](https://p5js.org/reference/p5/arc)
+
+arc(x, y, w, h, start, stop, [mode])
+
+mode admite PIE, CHORD, OPEN.
+
 ### referentes de hoy
 
 - [Corita Kent](https://es.wikipedia.org/wiki/Corita_Kent)
